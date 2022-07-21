@@ -395,7 +395,7 @@ Something like this:
 Command:
 ```
 near call <staking_pool_id> deposit_and_stake --amount <amount> --accountId <accountId> --gas=300000000000000
-
+```
 
 ##### Unstake NEAR
 Amount in yoctoNEAR.
